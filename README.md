@@ -50,9 +50,6 @@ Feel free to reach out:
   <a href="https://www.linkedin.com/in/nikunj-bhuva">
     <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/nikunjbhuva">
-    <img src="https://img.icons8.com/ios/50/000000/twitter.png" alt="Twitter" title="Twitter"/>
-  </a>
 </p>
 
 ## 😄 Fun Fact
