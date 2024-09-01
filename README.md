@@ -4,7 +4,7 @@
 
 # Hi, I'm Nikunj Bhuva 👋
 
-Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** with a focus on creating dynamic and interactive web applications.
+Welcome to my GitHub profile! I'm a dedicated **FULL STACK DEVELOPER** with a focus on creating dynamic and interactive web applications.
 
 ## 🌟 About Me
 
