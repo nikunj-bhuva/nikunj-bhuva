@@ -2,18 +2,18 @@
 
 # Hi, I'm Nikunj Bhuva 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a focus on creating seamless web applications. Here’s a bit about me:
+Welcome to my GitHub profile! I'm a dedicated **FULL STACK DEVELOPMENT** with a focus on creating dynamic and interactive web sites.
 
 ## 🌟 About Me
 
 - **Currently Learning:** 
-  - **Frontend:** Mastering HTML5, CSS3, JavaScript, jQuery, React, and Bootstrap 5
-  - **Backend:** Diving into the MERN stack: MongoDB, Express.js, React, and Node.js
+  - **Frontend:** HTML5, CSS3, JavaScript, jQuery, ReactJS, and Bootstrap 5
+  - **Backend:** Studying the MERN stack (MongoDB, Express.js, React, Node.js)
 
 - **Interests:**
-  - Building responsive and interactive user interfaces
-  - Developing robust and scalable backend services
-  - Exploring new technologies and frameworks
+  - Building responsive and user-friendly web interfaces
+  - Developing robust backend services
+  - Exploring new web technologies and frameworks
 
 ## 💻 Skills
 
@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a f
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
   <img src="https://img.icons8.com/color/48/000000/jquery.png" alt="jQuery" title="jQuery"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" title="ReactJS"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5"/>
 </p>
 
@@ -37,18 +37,25 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a f
 ## 🤝 Collaboration
 
 I'm open to collaborating on:
-- **Open Source Projects**: Let's contribute to something meaningful!
-- **Web Development Projects**: Whether it's a new feature or a complete build, I'm eager to get involved.
+- **Web Development Projects**: Including both frontend and backend components.
+- **ReactJS Projects**: If you’re working on something interesting with React, let’s connect!
 
 ## 📫 Contact Me
 
 Feel free to reach out:
-- **Email:** (Email:"nikunjbhuva121@gmail.com")
-- **LinkedIn:** ()
+<p align="center">
+  <a href="mailto:nikunjbhuva121@gmail.com">
+    <img src="https://img.icons8.com/ios/50/000000/email.png" alt="Email" title="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikunj-bhuva">
+    <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
+  </a>
+  </p>
 
 ## 😄 Fun Fact
 
-I love experimenting with different tech stacks and building unique solutions during my free time.
+I enjoy experimenting with new tech stacks and creating innovative web solutions.
+
 </div>
 
 ---
