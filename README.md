@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a dedicated **FULL STACK DEVELOPMENT** with a 
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfIXrxi4nb3EsxSzTfrk1YW8ENZSAd8oqUDQ&s" alt="jQuery" title="jQuery" style="max-width:100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfIXrxi4nb3EsxSzTfrk1YW8ENZSAd8oqUDQ&s" alt="jQuery" title="jQuery" style="width:"48px", height:"48px" />
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" title="ReactJS"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5"/>
 </p>
