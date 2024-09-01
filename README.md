@@ -1,8 +1,10 @@
-![image](https://github.com/user-attachments/assets/5aa5a907-d007-444e-894d-76d5a806917c)<div align="center">
+<div align="center">
+
+![Profile Banner](https://github.com/user-attachments/assets/5aa5a907-d007-444e-894d-76d5a806917c)
 
 # Hi, I'm Nikunj Bhuva 👋
 
-Welcome to my GitHub profile! I'm a dedicated **FULL STACK DEVELOPMENT** with a focus on creating dynamic and interactive web sites.
+Welcome to my GitHub profile! I'm a dedicated **Full Stack Developer** with a focus on creating dynamic and interactive web applications.
 
 ## 🌟 About Me
 
@@ -22,7 +24,7 @@ Welcome to my GitHub profile! I'm a dedicated **FULL STACK DEVELOPMENT** with a 
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" title="HTML5"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" title="CSS3"/>
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfIXrxi4nb3EsxSzTfrk1YW8ENZSAd8oqUDQ&s" alt="jQuery" title="jQuery" style="width:"48px", height:"48px" />
+  <img src="https://img.icons8.com/color/48/000000/jquery.png" alt="jQuery" title="jQuery"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" title="ReactJS"/>
   <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap 5" title="Bootstrap 5"/>
 </p>
@@ -50,7 +52,10 @@ Feel free to reach out:
   <a href="https://www.linkedin.com/in/nikunj-bhuva">
     <img src="https://img.icons8.com/ios/50/000000/linkedin.png" alt="LinkedIn" title="LinkedIn"/>
   </a>
-  </p>
+  <a href="https://twitter.com/nikunjbhuva">
+    <img src="https://img.icons8.com/ios/50/000000/twitter.png" alt="Twitter" title="Twitter"/>
+  </a>
+</p>
 
 ## 😄 Fun Fact
 
