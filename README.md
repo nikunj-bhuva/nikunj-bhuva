@@ -1,7 +1,5 @@
 <div align="center">
 
-![Profile Banner](https://github.com/user-attachments/assets/5aa5a907-d007-444e-894d-76d5a806917c)
-
 # Hi, I'm Nikunj Bhuva 👋
 
 Welcome to my GitHub profile! I'm a dedicated **FULL STACK DEVELOPER** with a focus on creating dynamic and interactive web applications.
